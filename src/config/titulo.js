@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Atención humanizada y habilidades centradas en la persona'

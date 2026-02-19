@@ -2,31 +2,228 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 50%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 21%
+    right: 10%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
-.banner-principal .tarjeta
-  background-position: left 50% !important
 
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
-
-.banner-interno__titulo__icono i
-  color: $color-primario
+.banner-principal
+  .container.tarjeta
+    background-image: url("../assets/curso/portada/fondo-banner-principal.png")
+    background-size: cover
+    background-position: center
+    @media (max-width: $bp-max-md)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png") !important
+    @media (max-width: $bp-max-xs)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/imgbaner.png") !important
 
 figcaption
   font-weight: normal
+
+/*Fondo de cajones */
+.cajon.color-primario
+  background-color: #C8EEFE
+.bloque-texto-b.color-primario:before
+  background-color: #C8EEFE
+
+.cajon.color-secundario
+  background-color: #E8E8FF
+
+.tarjeta.color-acento-botones
+  background-color: #FFF5DF
+
+.fa-chevron-right,.fa-chevron-left
+  color:#FFCD77
+
+// versión escritorio/movil
+@media (min-width:1400px)
+  .movil2
+    display: inline
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .tabla-a table
+    min-width: 0px
+  .desktop 
+    display: none
+@media (max-width: 1024px)
+  .movil 
+    display: inline
+  .tabla-a table
+    min-width: 0px
+  .desktop 
+    display: none
+
+//FONDOS
+.tarjeta-fblanco
+  background-color: #FfFFFF
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  
+.BMG1
+  background: linear-gradient(180deg, #fff, #E9F9FF, #fff)
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BMG2
+  background-color: #FFF5DF
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+.BMG3
+  background: linear-gradient(180deg, #fff, #EEEEFF, #fff)
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.tarjeta--BMG4
+  background-image: url("../assets/curso/temas/tema3/bgpasos.png")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  figure
+    z-index: -1 !important
+
+.tarjeta--BMG5
+  background-color: #C8EEFE
+
+
+.bloque-texto-b:before
+  top: 32%
+  bottom: 20px
+
+.titulo
+  background-color:#FFD4CC
+  color: black
+  border-radius: 50px
+  height: 31px
+  display: inline-flex
+  align-items: center
+  justify-content: flex-start
+  
+.titulo h5
+  margin-right: 23px
+  margin-bottom: 0px
+
+.titulo img
+  width: 45px
+  height: 45px
+  margin-right: 10px
+  margin-left: -10px
+
+//Listas
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, li i.lista-ul__vineta.lista-ol--cuadro__vineta
+  display: flex
+  align-items: flex-start
+.lista-ol--cuadro__vineta
+    color: #000000
+
+i.fas.fa-briefcase-medical
+  color: #FFAE9F
+.lista-ul__vineta
+  top: 4px !important
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #FFF5DF
+
+.crd_hover_txt--body
+  position: absolute
+  bottom: 0    
+  transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+  transform: translateY(calc( 100% - 3.85rem ))
+  
+  
+@media (min-width:1200px) and (max-width:1400px)  
+  .crd_hover_txt--body
+    p
+      font-size: 0.85em
+.ubicar 
+  h4
+    margin-left: 55px
+    margin-top: -35px
+  .acordion__accion.acordion__accion__btn--b.h3.mb-0
+    margin-top: -7px
+.tit-tarj
+  margin-top: 2px
+  background-color: #FFF5DF
+  height: 60px
+
+.acordion__accion__btn--b 
+    border: 1px solid #FFCD77
+    background-color: #FFCD77
+
+.tarjeta--BG04
+  background-color: #FFF5DF
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  text-align: center
+
+.acordion__accion__btn--a
+  border: 1px solid #FFCD77
+  background-color: #FFCD77
+.acordion__accion__btn--b
+  border: 1px solid #FFCD77
+  background-color: #FFCD77
+
+
+.acordion__activo
+  background-color: #FFF5DF !important
+.tarjeta--celeste
+  background-color: #C8EEFE
+.tarjeta--azul
+    background-color: #B6CFE3
+
+.slyder__btn
+  background-color: #FFCD77
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .pasos-b.color-acento-contenido .pasos-b__header__item--active .pasos-b__header__item__dot, .pasos-b__header__btn--right:hover, .pasos-b__header__btn--left:hover
+  border: 2px solid #FFCD77
+  background-color: #FFCD77
+.pasos-b__header__item--before .pasos-b__header__item__dot
+    border-color: #ABACFF
+    background-color: #ABACFF
+.pasos-b__header__item__dot i
+  color: #000
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before,.pasos-b__header__item--before .pasos-b__header__item__line-container:after
+    background-color: #707070
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+    background-color: #707070
+
+.bloque-texto-c:after
+  display: none
