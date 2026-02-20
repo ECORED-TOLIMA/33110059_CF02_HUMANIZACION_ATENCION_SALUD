@@ -256,7 +256,7 @@
               h3.mb-1 El modelo biosicosocial en evolución
               p Para profundizar en la reflexión de las relaciones de los anteriores modelos, acceda al siguiente documento que detalla con mayor profundidad esta temática.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Hacia_una_comunicacion_efectiva.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_El_modelo_biosicosocial.pdf')" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
     separador
