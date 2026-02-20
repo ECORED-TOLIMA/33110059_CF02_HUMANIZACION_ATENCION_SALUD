@@ -11,12 +11,12 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema3/img1.jpg" alt="Imagen decorativa")
-    p.mb-0 La gestión centrada en la persona constituye un enfoque fundamental en el sector salud, orientado a garantizar una atención integral que reconozca a cada individuo como un ser único, con necesidades, valores, expectativas y contextos propios. Este modelo trasciende la visión tradicional centrada exclusivamente en la enfermedad, para situar a la persona como eje del proceso de atención, promoviendo el respeto por su dignidad, autonomía y participación activa en la toma de decisiones. Desde esta perspectiva, la gestión en salud articula aspectos clínicos, organizacionales y relacionales, fortaleciendo prácticas humanizadas que integran el saber técnico con las dimensiones emocionales, sociales y culturales, contribuyendo así a mejorar la calidad del cuidado y la experiencia de las personas y sus redes de apoyo.
+    p.mb-0(data-aos="fade-left") La gestión centrada en la persona constituye un enfoque fundamental en el sector salud, orientado a garantizar una atención integral que reconozca a cada individuo como un ser único, con necesidades, valores, expectativas y contextos propios. Este modelo trasciende la visión tradicional centrada exclusivamente en la enfermedad, para situar a la persona como eje del proceso de atención, promoviendo el respeto por su dignidad, autonomía y participación activa en la toma de decisiones. Desde esta perspectiva, la gestión en salud articula aspectos clínicos, organizacionales y relacionales, fortaleciendo prácticas humanizadas que integran el saber técnico con las dimensiones emocionales, sociales y culturales, contribuyendo así a mejorar la calidad del cuidado y la experiencia de las personas y sus redes de apoyo.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  3.1	Antecedentes del modelo de atención centrada en la persona
-    p.mb-4 En el desarrollo del presente apartado se toman los aportes de autores destacados, con el propósito de recordar las contribuciones que han influido de manera significativa en el modelo de atención centrada en la persona y en su aplicación actual como expresión de la humanización en el sector salud y en la atención en salud.
+    p.mb-4(data-aos="fade-left") En el desarrollo del presente apartado se toman los aportes de autores destacados, con el propósito de recordar las contribuciones que han influido de manera significativa en el modelo de atención centrada en la persona y en su aplicación actual como expresión de la humanización en el sector salud y en la atención en salud.
 
     .row.tarjeta--BMG5.justify-content-center.align-items-center.mb-5
       .col-lg-5
@@ -28,14 +28,14 @@
             figure.mb-4(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/tema3/img3.svg" alt="Imagen decorativa")
 
-        p.mb-0 Por lo tanto, es importante mencionar que han transcurrido más de 60 años desde que Carl Rogers (1902–1987) propuso la terapia centrada en la persona (1951); sin embargo, sus investigaciones y planteamientos continúan siendo vigentes. Este enfoque considera a la persona en su totalidad y resalta la influencia de los aspectos somáticos y psicológicos en la salud. Inicialmente, Rogers denominó este modelo como terapia centrada en el cliente, argumentando que quien solicita apoyo profesional se sitúa en una relación de servicio; posteriormente, el término evolucionó hacia “persona”, con el fin de resaltar una mirada holística e integral del ser humano.
+        p.mb-0(data-aos="fade-left") Por lo tanto, es importante mencionar que han transcurrido más de 60 años desde que Carl Rogers (1902–1987) propuso la terapia centrada en la persona (1951); sin embargo, sus investigaciones y planteamientos continúan siendo vigentes. Este enfoque considera a la persona en su totalidad y resalta la influencia de los aspectos somáticos y psicológicos en la salud. Inicialmente, Rogers denominó este modelo como terapia centrada en el cliente, argumentando que quien solicita apoyo profesional se sitúa en una relación de servicio; posteriormente, el término evolucionó hacia “persona”, con el fin de resaltar una mirada holística e integral del ser humano.
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 La persona como centro
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7.order-2.order-lg-1
+      .col-lg-7.order-2.order-lg-1(data-aos="fade-left")
         p La terapia centrada en la persona, considera que los seres humanos son incondicionalmente válidos, independientemente de su comportamiento, condición o sentimientos.
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-2.d-lg-block.d-none
@@ -52,7 +52,7 @@
       .col-lg-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row(titulo="")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
               h5  Estimación positiva incondicional
               p.mb-0  Implica aceptar y valorar a la persona en su totalidad, sin juicios ni condiciones, reconociendo su dignidad y valor intrínseco. En el contexto de la atención en salud, este proceso permite que el paciente se sienta respetado y comprendido, lo que reduce actitudes defensivas y favorece un clima de confianza.
             .col-lg-2.d-none.d-lg-block
@@ -62,18 +62,18 @@
             .col-lg-2.d-none.d-lg-block
               figure.mb-4(data-aos="zoom-in")
                 img.img-fluid(src="@/assets/curso/temas/tema3/img7.svg" alt="Imagen decorativa")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
               h5  Empatía
               p.mb-0  Consiste en comprender profundamente el mundo interno de la persona, percibiendo sus emociones, pensamientos y significados como si fueran propios, sin perder la condición de profesional. En la atención en salud, esta capacidad permite interpretar adecuadamente las vivencias del paciente frente a la enfermedad y el tratamiento, promoviendo una comunicación más cercana y efectiva.
           .row(titulo="")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-10.mb-4.mb-md-0(data-aos="fade-left")
               h5  Congruencia
               p.mb-0  Una persona que encuentra la congruencia entre su “yo ideal” y su “yo real” es menos propensa a vivenciar desequilibrios sicológicos. Por ello el terapeuta debería propiciar experiencias que permitan que el paciente estructure mejores visiones de sí mismo y su salud.
             .col-lg-2.d-none.d-lg-block
               figure.mb-4(data-aos="zoom-in")
                 img.img-fluid(src="@/assets/curso/temas/tema3/img8.svg" alt="Imagen decorativa")
     
-    p.mb-4 Desde el enfoque de la humanización, se reconoce la importancia de las relaciones interpersonales, las cuales se establecen entre personas o grupos de personas. Estas relaciones permiten el intercambio de información, la comunicación efectiva, la expresión de emociones, la toma de decisiones compartidas y la puesta en práctica de acciones orientadas a ayudar y servir a otros, lo cual constituye el quehacer cotidiano de la atención humanizada en salud.
+    p.mb-4(data-aos="fade-left") Desde el enfoque de la humanización, se reconoce la importancia de las relaciones interpersonales, las cuales se establecen entre personas o grupos de personas. Estas relaciones permiten el intercambio de información, la comunicación efectiva, la expresión de emociones, la toma de decisiones compartidas y la puesta en práctica de acciones orientadas a ayudar y servir a otros, lo cual constituye el quehacer cotidiano de la atención humanizada en salud.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
@@ -91,7 +91,7 @@
       .col-lg-1.d-lg-block.d-none
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema3/img10.svg" alt="Imagen decorativa")
-      .col-lg-11
+      .col-lg-11(data-aos="fade-left")
         p Este contexto le permite al paciente explorar su propia forma de ser y su complejidad, quien dentro de un contexto de atención en salud, conoce mejor sus problemas, lo que le lastima y lo que le ayudaría a solucionar.
         p.mb-0 Los principales cambios observados por Rogers en los pacientes, durante o después del final del proceso de terapia son:
 
@@ -100,37 +100,34 @@
         .col-lg-3.col-6.mb-4.mb-lg-0
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="Icono 1")
-        .col-lg-7.mb-4.mb-lg-0
-          ul.lista-ul
-            li
-              i.fas.fa-briefcase-medical
-              p.mb-0 Transmitir entusiasmo y motivación a su equipo.
-
-            li
-              i.fas.fa-briefcase-medical
+        .col-lg-7.mb-4.mb-lg-0(data-aos="fade-left")
+          ol.lista-ol--cuadro.lista-ol--separador
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta
+                span 1
               p.mb-0 Se obtiene una nueva perspectiva sobre la libertad y el determinismo.
-
-            li
-              i.fas.fa-briefcase-medical
-              p.mb-0 Usa la creatividad como elemento de la vida plena.
-
-            li
-              i.fas.fa-briefcase-medical
-              p.mb-0 Pueden vivir en cualquier momento y cultura.
-
-            li
-              i.fas.fa-briefcase-medical
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta
+                span 2
+              p.mb-0 Usa la creatividad como elemento de la vida plena. 
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta
+                span 3
+              p.mb-0 Pueden vivir en cualquier momento y cultura. 
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta
+                span 4
               p.mb-0 Comienzan a vivir de manera constructiva; es decir, siempre continúan progresando para ser ellos mismos.
-
-            li
-              i.fas.fa-briefcase-medical
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta
+                span 5
               p.mb-0 Comportarse lo más completamente posible para satisfacer sus necesidades.
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Modelo biopsicosocial
-    p Georges Engel, reconocido como el creador del modelo biopsicosocial, propone un enfoque que comprende a la persona como un ser integral, en el cual la dimensión psicológica constituye un componente esencial en la experiencia de la enfermedad. Este modelo destaca la importancia del contexto emocional y social en el que vive la persona, reconociendo que los factores psicológicos influyen en los procesos biológicos y que estos, a su vez, impactan el sistema social del paciente. El modelo biopsicosocial enfatiza una visión amplia e integrada de la salud, la enfermedad y la atención, con el propósito de evidenciar la interrelación entre las creencias familiares y la forma en que las personas y sus familias se adaptan a los procesos de enfermedad.
-    p.mb-4 Basado en Borrell-Carrió (2002), sus fundamentos son:
+    p(data-aos="fade-left") Georges Engel, reconocido como el creador del modelo biopsicosocial, propone un enfoque que comprende a la persona como un ser integral, en el cual la dimensión psicológica constituye un componente esencial en la experiencia de la enfermedad. Este modelo destaca la importancia del contexto emocional y social en el que vive la persona, reconociendo que los factores psicológicos influyen en los procesos biológicos y que estos, a su vez, impactan el sistema social del paciente. El modelo biopsicosocial enfatiza una visión amplia e integrada de la salud, la enfermedad y la atención, con el propósito de evidenciar la interrelación entre las creencias familiares y la forma en que las personas y sus familias se adaptan a los procesos de enfermedad.
+    p.mb-4(data-aos="fade-left") Basado en Borrell-Carrió (2002), sus fundamentos son:
 
     .tarjeta--BMG4.p-5.mb-5
       .tarjeta.tarjeta--gris.p-4
@@ -172,7 +169,7 @@
             .col-lg-6.mb-4.mb-md-0
               p.mb-0 Además, la relación del profesional de la salud con el paciente, también interviene en el resultado terapéutico, aunque solo sea por la influencia que pueda tener sobre el cumplimiento del tratamiento. 
 
-    p.mb-4 Igualmente, existen los siguientes aspectos favorables de la perspectiva (biopsicosocial):
+    p.mb-4(data-aos="fade-left") Igualmente, existen los siguientes aspectos favorables de la perspectiva (biopsicosocial):
     .tarjeta--BMG6.pt-4.px-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-3.d-lg-block.d-none
@@ -209,7 +206,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Características
-    p.mb-4 Este modelo comienza a fundamentarse con las teorías de terapias familiares y luego son orientadas a entender los aspectos biopsicosociales que presenta el individuo cuando la atención médica está centrada en la familia, creando la terapia médica familiar. Por ello, se caracteriza principalmente por:[
+    p.mb-4(data-aos="fade-left") Este modelo comienza a fundamentarse con las teorías de terapias familiares y luego son orientadas a entender los aspectos biopsicosociales que presenta el individuo cuando la atención médica está centrada en la familia, creando la terapia médica familiar. Por ello, se caracteriza principalmente por:[
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
@@ -265,10 +262,10 @@
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  3.2	Modelo de atención centrada en la persona
-    p.mb-4 La perspectiva mostrada desde el modelo biopsicosocial o la terapia centrada en la persona, establece puntos de discusión que muestran la necesidad de incorporar al paciente como ser humano y a sus cercanos, familiares o agentes de cuidado, como seres activos, partícipes y agentes influyentes en el proceso de salud.
+    p.mb-4(data-aos="fade-left") La perspectiva mostrada desde el modelo biopsicosocial o la terapia centrada en la persona, establece puntos de discusión que muestran la necesidad de incorporar al paciente como ser humano y a sus cercanos, familiares o agentes de cuidado, como seres activos, partícipes y agentes influyentes en el proceso de salud.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10
+      .col-lg-10(data-aos="fade-left")
         .bloque-texto-c.tarjeta--celeste.p-4
           i.fas.fa-quote-left
           p.text-bold.ms-2.mb-0 Dar la palabra al paciente, dejarle participar en las decisiones, averiguar las expectativas que tiene, mostrar el profesional como ser humano, son puntos capitales del modelo
@@ -279,9 +276,9 @@
 
     .tarjeta.color-acento-botones.p-3.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
+        .col-3.col-sm-2.col-lg-1(data-aos="fade-left")
           img(src="@/assets/curso/temas/tema3/img31.svg")
-        .col
+        .col(data-aos="fade-left")
           .row.justify-content-between.align-items-center
             .col.mb-sm-0.mb-4
               h3.mb-1 Modelo centrado en la persona
@@ -368,13 +365,178 @@
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema3/img37.svg" alt="Icono 1")
 
-      .titulo.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
-        h5 Perspectiva OES
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
+      h5 Perspectiva OES
+    p.mb-4 Según la Organización para la Excelencia en Salud (OES) refiere que, para garantizar la mejor atención al paciente se debe contar:
+
+    .row.mb-5
+      .col-lg-6.mb-lg-0.mb-4(data-aos="fade-left")
+        .tarjeta.tarjeta--BG06.h-100
+          figure
+            img(src='@/assets/curso/temas/tema3/img38.png', alt='Texto que describa la imagen')
+          .p-4
+            h5 Atención centrada en el paciente y su familia
+            p.mb-0 Necesariamente, la atención debe centrarse en el paciente y su familia como eje fundamental y conceptual del Sistema Obligatorio de Garantía de la Calidad (SOGC).
+      .col-lg-6(data-aos="fade-right")
+        .tarjeta.tarjeta--BG06.h-100
+          figure
+            img(src='@/assets/curso/temas/tema3/img39.png', alt='Texto que describa la imagen')         
+          .p-4
+            h5 Participación activa en la toma de decisiones
+            p.mb-0 Es imperativo involucrar al paciente y a su familia en todo el proceso de atención, especialmente en la toma de decisiones relacionadas con el cuidado y el manejo de la enfermedad.
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
+      h5 Modelo Organización Planetree
+    P Según la Organización Planetree International, plantea que la atención centrada en la persona es más que hospitalidad, ambiente saludable y #[i confort], el cual crea impresiones positivas y experiencias satisfactorias en favor de la calidad de vida.
+    P.mb-4 El modelo contribuye a la implementación sistemática de la humanización en la atención centrada en la persona y su familia, la cual se aborda de la siguiente manera:[
+    
+    .tarjeta--BMG4.p-5.mb-4 
+      .tarjeta.tarjeta--gris.p-4
+        PasosB.color-acento-contenido
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img40.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Orientación del liderazgo
+              p.mb-0 Promueve líderes capaces de inspirar y establecer vínculos efectivos con el personal, facilitando la apropiación del enfoque y su integración como parte del abordaje estratégico de las organizaciones.
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img41.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Planetree para el personal
+              p.mb-0 Se centra en el cuidado y reconocimiento de las personas que contribuyen al bienestar y la salud, valorando sus logros, buenas prácticas y el impacto positivo de su labor en el fortalecimiento de la atención centrada en la persona.
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img42.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Evaluación cultural
+              p.mb-0 Implica la aplicación de encuestas de cultura organizacional que permitan identificar creencias, prácticas y acciones con impacto positivo, con el fin de construir planes de mejora inclusivos y colectivos, con la participación del personal administrativo y asistencial, así como de las personas y sus familias.
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img43.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Desarrollo de programas
+              p.mb-0 Consiste en el diseño e implementación de programas prioritarios y preferenciales que resulten significativos y atractivos para las personas, fortaleciendo su experiencia en los servicios de salud.
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img44.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Implementación de prácticas adecuadas para pacientes
+              p.mb-0 Hace referencia a la planificación, dirección y gestión de procesos orientados a implementar y fortalecer programas centrados en el cuidado de las personas.
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img45.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Entrenamiento gerencial
+              p.mb-0 Se orienta a identificar las necesidades de coaching de gerentes y directivos, así como a desarrollar nuevas estrategias de motivación, involucramiento y capacitación del personal, definiendo roles claros dentro de una nueva estructura operativa.
+          .row(titulo="")
+            .col-lg-6.col-10.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema3/img46.jpg" alt="Imagen decorativa")
+            .col-lg-6.mb-4.mb-md-0
+              h5 Habilidades y estructuras
+              p.mb-0 Se enfoca en la identificación y fortalecimiento de las habilidades y estructuras necesarias, incluyendo la gobernanza, la toma de decisiones compartidas, el entrenamiento en interacciones empáticas, el desarrollo de equipos de salud y la expansión de contenidos de educación e investigación.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-1.d-lg-block.d-none
+        figure(data-aos="zoom-in")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img47.svg" alt="Imagen decorativa")
+      .col-lg-11
+        p.mb-0 Con lo anterior, la atención centrada en la persona, crea ambientes saludables en el trabajo, mejora los resultados de salud y compromete a las comunidades en torno a la salud y el bienestar: asimismo, tiene efecto en el desempeño directo de las organizaciones de salud y mejora la experiencia de la persona, es decir cada integrante se siente valorado y con ello la institución se consolida.
+    
+    .row.justify-content-center.align-items-center.mb-4
+        .col-lg-3.col-6.mb-4.mb-lg-0
+          figure(data-aos="zoom-in")
+            img.img-fluid(src="@/assets/curso/temas/tema3/img48.jpg" alt="Icono 1")
+        .col-lg-7.mb-4.mb-lg-0
+          p.mb-4  Las siguientes son las contribuciones del modelo:
+          ul.lista-ul
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 Mejora el estado de salud de forma más rápida.
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 Aumenta el nivel de excelencia de la calidad de la atención.
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 Incrementa la fidelidad en la organización por parte de la persona, familia y comunidad.
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 Aumenta el clima organizacional, fortaleciendo la satisfacción, liderazgo y compromiso del personal de salud; asimismo, en la satisfacción del sujeto de cuidado, su red de apoyo y comunidad.
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 La eficacia en el uso de los recursos que dispone las organizaciones de salud, mejora el flujo de ingresos y su funcionamiento.
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 Impulsa el mejoramiento continuo de la calidad de la atención.
+            li
+              i.fas.fa-briefcase-medical
+              p.mb-0 Brinda cercanía y conexión de la comunidad con la organización.
+    .tarjeta.color-acento-botones.p-3.mb-4(data-aos="fade-right")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema3/img49.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-sm-0.mb-4
+              h3.mb-1 Modelo Planetree
+              p Este video presenta contiene la ponencia de la directora de Planetree internacional, quien expone de manera clara su modelo.
+            .col-sm-auto
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=9DImhwsbHw4')" target="_blank" type="video")
+                span Abrir video
+                i.fas.fa-file-download
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  3.3	Experiencias en Colombia
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-1.d-lg-block.d-none
+        figure(data-aos="zoom-in")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img50.svg" alt="Imagen decorativa")
+      .col-lg-11
+        p.mb-0 Las habilidades para la vida se desarrollan y manifiestan en diversos escenarios —político, organizacional, social, económico, cultural, ético y tecnológico— y, en el ámbito institucional, se formalizan a través de lineamientos gerenciales, como las políticas de humanización que fortalecen la cultura organizacional. En este contexto, a continuación, se presentan experiencias desarrolladas en Colombia, en las que convergen estas características y se traducen en estrategias orientadas a la implementación de modelos de atención humanizada, centrados en la persona y en el reconocimiento de la dignidad humana:
+    
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
+      h5 Programa de humanización ESE - La Mesa
+    p.mb-4 Se presenta el programa de humanización en una Empresa Social del Estado (ESE) ubicada en La Mesa (Cundinamarca), que conforma estrategias, esfuerzos, actividades y proyecciones de atención centrada en la persona.
+
+     .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        figure(data-aos="zoom-in")
+          .video
+            iframe(width="1346" height="757" src="https://www.youtube.com/embed/dpNebBasxoM" title="Programa Humanización V6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
+      h5 Estrategia aplicada ESE- La Mesa
+    p.mb-4 Se presenta una de las estrategias utilizadas para abordar el programa de humanización en una en una Empresa Social del Estado ubicada en La Mesa (Cundinamarca). El apoyo emocional como eje de abordaje.
+
+     .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        figure(data-aos="zoom-in")
+          .video
+            iframe(width="1346" height="757" src="https://www.youtube.com/embed/-PRXdjjUV-M" title="Estrategia Apoyo Emocional - Trabajo Social" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
+      h5 Programa de humanización ESE Sesquilé
+    p.mb-4 Se presenta una de las estrategias utilizadas para abordar el programa de humanización en tiempos de COVID por una ESE de Sesquilé (Cundinamarca).
+
+    .row.justify-content-center.align-items-center
+      .col-lg-12
+        figure(data-aos="zoom-in")
+          .video
+            iframe(width="1346" height="757" src="https://www.youtube.com/embed/3PC_LdYwi6A" title="Humanización Hospital Sesquilé" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+           
 </template>
 <script>
 export default {
