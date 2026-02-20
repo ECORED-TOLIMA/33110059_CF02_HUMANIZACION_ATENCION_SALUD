@@ -331,7 +331,7 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1401" height="788" src="https://www.youtube.com/embed/nKDtHPPG9gg" title="Contextualización ser humano y humanización en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="1401" height="788" src="https://www.youtube.com/embed/UMhL2StwD2M" title="Empatía" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-4.mb-lg-0

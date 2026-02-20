@@ -104,7 +104,6 @@
             .col-lg-2.d-none.d-lg-block
               figure(data-aos="zoom-in")
                 img.img-fluid(src="@/assets/curso/temas/tema2/img12.svg" alt="Icono 1")
-
             .col-lg-10
               p.mb-0 La interacción interpersonal entre el talento humano en salud, la persona sujeto de cuidado, su red de apoyo y la organización, se convierte en un elemento esencial para brindar una atención humanizada, basada en el respeto, la empatía y la dignidad humana.
 
