@@ -12,10 +12,10 @@
           img.img-fluid(src="@/assets/curso/temas/tema1/img1.svg" alt="Icono 1")
       .col-lg-9.mb-4.mb-lg-0
         .row.justify-content-center.mb-3
-          .col-lg-2.d-none.d-lg-block
+          .col-lg-1.d-none.d-lg-block
             figure(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/tema1/img2.svg" alt="Icono 1")
-          .col-lg-10
+          .col-lg-11
             p.mb-0(data-aos="fade-left") Estas habilidades hacen referencia a las capacidades personales y sociales que el talento humano en salud emplea para brindar una atención centrada en la persona. Además, permiten reconocer a pacientes, familias y redes de apoyo como sujetos activos, con dimensiones emocionales, sociales y culturales que influyen en el proceso de atención.
         .cajon.color-secundario.p-4.mb-4
           p.mb-0(data-aos="fade-left")  Entre las habilidades más relevantes se encuentran el trabajo en equipo, el liderazgo y la empatía, las cuales favorecen relaciones respetuosas, cooperación interdisciplinaria y toma de decisiones orientadas al bienestar. Su adecuada aplicación contribuye a generar confianza, mejorar la experiencia del usuario y fortalecer la calidad del servicio.
@@ -48,7 +48,7 @@
       h5 Virtudes en el trabajo de equipo
     p.mb-4 El IIPE (Instituto Internacional de Planeamiento de la Educación, 2000) determina algunas características de los equipos de alto desempeño:
 
-    .BMG1.px-lg-4.p-4
+    .tarjeta--BMG1.p-5
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-4.col-6.mb-4.mb-lg-0
           figure(data-aos="zoom-in")
@@ -169,14 +169,14 @@
       h5 Motivación
 
     .row.justify-content-center.mb-3
-      .col-lg-2.d-none.d-lg-block
+      .col-lg-1.d-none.d-lg-block
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img15.svg" alt="Icono 1")
-      .col-lg-10
+      .col-lg-11
         p.mb-0(data-aos="fade-left") Un factor importante en crear un ambiente favorable de trabajo en equipo y el logro de los objetivos en la atención en salud humanizada, es la motivación, la cual juega un papel importante, entendiéndola como una fuerza direccionada al logro de un propósito, que, al ser alcanzado, habrá de generar satisfacción. La motivación tiene que ver con el optimismo, el cual es una capacidad de seguir adelante y de continuar persiguiendo los objetivos a pesar de las adversidades.
 
     p.mb-4(data-aos="fade-left") La motivación puede ser generada por los procesos mentales individuales (automotivación) o provenir del entorno (estímulo externo). Ambos procesos se destacan por:[
-
+    
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul mb-4")
       .row(titulo="Automotivación ")
         .col-lg-8.order-2.order-lg-1
@@ -192,7 +192,7 @@
         .col-lg-4.col-12.mb-4.mb-lg-4.order-1.order-lg-2
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema1/img17.jpg" alt="Icono 1")
-
+    p.mb-4 La siguiente imagen, explica todo el proceso que tiene que ver con la motivación y las diversas acciones en donde está presente:
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones.mb-5
@@ -303,21 +303,21 @@
           .row(titulo="")
             .col-lg-7.col-10.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
-                img.img-fluid(src="@/assets/curso/temas/tema1/img21.jpg" alt="Imagen decorativa")
+                img.img-fluid(src="@/assets/curso/temas/tema1/img25.jpg" alt="Imagen decorativa")
             .col-lg-5.mb-4.mb-md-0
               h5  Ser libre emocionalmente
               p.mb-0 El líder está por encima del melodrama, libre de la toxicidad emocional para comprender las necesidades de los demás sin miedo, sin depresión y sin los nocivos residuos de la competitividad.
           .row(titulo="")
             .col-lg-7.col-10.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
-                img.img-fluid(src="@/assets/curso/temas/tema1/img25.jpg" alt="Imagen decorativa")
+                img.img-fluid(src="@/assets/curso/temas/tema1/img26.jpg" alt="Imagen decorativa")
             .col-lg-5.mb-4.mb-md-0
               h5  Ser responsable
               p.mb-0 Demuestra iniciativa, asume los retos maduros, no los inútiles, teniendo integridad y viviendo de acuerdo con los valores.
           .row(titulo="")
             .col-lg-7.col-10.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
-                img.img-fluid(src="@/assets/curso/temas/tema1/img26.jpg" alt="Imagen decorativa")
+                img.img-fluid(src="@/assets/curso/temas/tema1/img27.jpg" alt="Imagen decorativa")
             .col-lg-5.mb-4.mb-md-0
               h5  Sincronía
               p.mb-0 Ingrediente misterioso de la inconsciencia que todos los grandes líderes tienen. Es la capacidad de crear la buena suerte y encontrar las reservas de poder, que llevan a un líder más allá de los resultados previstos. Es la capacidad de conectar una necesidad con una respuesta del alma.

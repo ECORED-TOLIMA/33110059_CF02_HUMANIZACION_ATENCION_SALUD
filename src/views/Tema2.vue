@@ -14,7 +14,7 @@
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  2.1	Sentido de vida
-    p.mb-4 [AFVE10.1]Las relaciones personales, el autorreconocimiento y las aptitudes individuales se encuentran estrechamente vinculadas con la forma en que las personas interactúan en los diferentes contextos de la vida, especialmente en el ámbito de la atención en salud. La manera en que cada individuo se comprende a sí mismo influye directamente en la calidad de sus relaciones y en la forma como se relaciona con los demás.
+    p.mb-4 Las relaciones personales, el autorreconocimiento y las aptitudes individuales se encuentran estrechamente vinculadas con la forma en que las personas interactúan en los diferentes contextos de la vida, especialmente en el ámbito de la atención en salud. La manera en que cada individuo se comprende a sí mismo influye directamente en la calidad de sus relaciones y en la forma como se relaciona con los demás.
     
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -38,10 +38,10 @@
           img.img-fluid(src="@/assets/curso/temas/tema2/img4.jpg" alt="Icono 1")
       .col-lg-8.mb-4.mb-lg-0
         .row.justify-content-center.mb-3
-          .col-lg-1.d-none.d-lg-block
+          .col-lg-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
-              img.img-fluid(src="@/assets/curso/temas/tema2/img5.svg" alt="Icono 1")
-          .col-lg-11
+              img.img-fluid(src="@/assets/curso/temas/tema2/img5.svg" alt="Icono 1"  class="m-auto" style="width: 100px;")
+          .col-lg-10
             p.mb-0(data-aos="fade-left") Las decisiones y acciones que se adoptan a lo largo de la vida configuran y revelan el sentido que se le otorga a la existencia. La vida interpela, cuestiona y desafía constantemente a las personas, invitándolas a responder de manera consciente y responsable.
         p(data-aos="fade-left") Finalmente, el sentido que se atribuye a las acciones y a los planes personales permite orientar la comprensión de la razón de existir y del propósito de vida. Este proceso forma parte esencial del crecimiento personal y profesional, especialmente en quienes desempeñan labores de cuidado, y constituye un elemento clave para fortalecer una atención en salud verdaderamente humanizada.
         p.mb-0(data-aos="fade-left") Con base en lo anterior, el sentido a la vida orienta acciones y procesos personales y profesionales que fortalecen la atención humanizada en salud, como son:
@@ -109,7 +109,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        p.mb-0 Para establecer relaciones interpersonales asertivas, se pueden identificar 3 aspectos principales:[
+        p.mb-0 Para establecer relaciones interpersonales asertivas, se pueden identificar 3 aspectos principales:
     
     .row.justify-content-center.mb-5
       .col-12.movil.mb-4
@@ -169,17 +169,17 @@
                   i.fas.fa-angle-up
                 h4.mb-3 Tolerancia
             p.mt-3.px-4 Es la capacidad de entender pensamientos y acciones estando en desacuerdo.
-    p.mb-4 Asimismo, se pueden considerar las siguientes aptitudes que favorecen las relaciones interpersonales entre el paciente y familia, el personal de salud y las organizaciones:[
+    p.mb-4 Asimismo, se pueden considerar las siguientes aptitudes que favorecen las relaciones interpersonales entre el paciente y familia, el personal de salud y las organizaciones:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.order-2.order-lg-1
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Confianza")  En muchos encuentros iniciales pueden surgir dudas o desconfianza; esta aptitud promueve la disposición a creer en el otro, facilitando relaciones basadas en la seguridad, el respeto y la apertura.
-          p.text-small(numero="2" titulo="Aceptación") Implica la capacidad de escuchar activamente y reconocer el conocimiento, la experiencia y la experticia de la otra persona, valorando su aporte en la interacción.
-          p.text-small(numero="3" titulo="Igualdad") Permite comprender que, más allá de las diferencias étnicas, etarias, culturales, religiosas o socioeconómicas, todas las personas deben ser reconocidas desde su dignidad, favoreciendo escenarios de diálogo respetuoso.
-          p.text-small(numero="4" titulo="Empatía")  Es una aptitud transversal al comportamiento humano que posibilita comprender la realidad del otro, considerando sus emociones y experiencias, lo que fortalece la relación interpersonal y genera satisfacción mutua.
-          p.text-small(numero="5" titulo="Espontaneidad")  La autenticidad y la naturalidad son esenciales en las relaciones interpersonales; esta aptitud permite actuar con agrado y coherencia, respetando la autonomía y la libertad del otro.
-          p.text-small(numero="6" titulo="Flexibilidad") Refleja la capacidad de adaptación y tolerancia en el trato interpersonal, facilitando la convivencia en diversos entornos y promoviendo la apertura al diálogo, la concertación y el reconocimiento de distintas formas de pensar.
+          p(numero="1" titulo="Confianza")  En muchos encuentros iniciales pueden surgir dudas o desconfianza; esta aptitud promueve la disposición a creer en el otro, facilitando relaciones basadas en la seguridad, el respeto y la apertura.
+          p(numero="2" titulo="Aceptación") Implica la capacidad de escuchar activamente y reconocer el conocimiento, la experiencia y la experticia de la otra persona, valorando su aporte en la interacción.
+          p(numero="3" titulo="Igualdad") Permite comprender que, más allá de las diferencias étnicas, etarias, culturales, religiosas o socioeconómicas, todas las personas deben ser reconocidas desde su dignidad, favoreciendo escenarios de diálogo respetuoso.
+          p(numero="4" titulo="Empatía")  Es una aptitud transversal al comportamiento humano que posibilita comprender la realidad del otro, considerando sus emociones y experiencias, lo que fortalece la relación interpersonal y genera satisfacción mutua.
+          p(numero="5" titulo="Espontaneidad")  La autenticidad y la naturalidad son esenciales en las relaciones interpersonales; esta aptitud permite actuar con agrado y coherencia, respetando la autonomía y la libertad del otro.
+          p(numero="6" titulo="Flexibilidad") Refleja la capacidad de adaptación y tolerancia en el trato interpersonal, facilitando la convivencia en diversos entornos y promoviendo la apertura al diálogo, la concertación y el reconocimiento de distintas formas de pensar.
       .col-lg-5.col-6.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src="@/assets/curso/temas/tema2/img16.jpg", alt="alt")

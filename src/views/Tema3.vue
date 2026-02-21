@@ -100,7 +100,7 @@
         .col-lg-3.col-6.mb-4.mb-lg-0
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="Icono 1")
-        .col-lg-7.mb-4.mb-lg-0(data-aos="fade-left")
+        .col-lg-8.mb-4.mb-lg-0(data-aos="fade-left")
           ol.lista-ol--cuadro.lista-ol--separador
             li(data-aos="fade-left") 
               .lista-ol--cuadro__vineta
@@ -169,7 +169,7 @@
             .col-lg-6.mb-4.mb-md-0
               p.mb-0 Además, la relación del profesional de la salud con el paciente, también interviene en el resultado terapéutico, aunque solo sea por la influencia que pueda tener sobre el cumplimiento del tratamiento. 
 
-    p.mb-4(data-aos="fade-left") Igualmente, existen los siguientes aspectos favorables de la perspectiva (biopsicosocial):
+    p.text-center.mb-4(data-aos="fade-left") Igualmente, existen los siguientes aspectos favorables de la perspectiva (biopsicosocial):
     .tarjeta--BMG6.pt-4.px-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-3.d-lg-block.d-none
@@ -206,7 +206,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Características
-    p.mb-4(data-aos="fade-left") Este modelo comienza a fundamentarse con las teorías de terapias familiares y luego son orientadas a entender los aspectos biopsicosociales que presenta el individuo cuando la atención médica está centrada en la familia, creando la terapia médica familiar. Por ello, se caracteriza principalmente por:[
+    p.mb-4(data-aos="fade-left") Este modelo comienza a fundamentarse con las teorías de terapias familiares y luego son orientadas a entender los aspectos biopsicosociales que presenta el individuo cuando la atención médica está centrada en la familia, creando la terapia médica familiar. Por ello, se caracteriza principalmente por
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
@@ -293,12 +293,12 @@
         .row.justify-content-center.mb-3
           .col-lg-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
-              img.img-fluid(src="@/assets/curso/temas/tema3/img32.svg" alt="Icono 1")
+              img.img-fluid(src="@/assets/curso/temas/tema3/img32.svg" alt="Icono 1"  class="m-auto" style="width: 100px;")
           .col-lg-10
             p.mb-0(data-aos="fade-left") El modelo centrado en la persona constituye una estrategia fundamental de gestión para la humanización en salud. Si bien existen diversas interpretaciones sobre este enfoque, una de las principales reconoce que la humanización rescata lo más genuino y natural del ser humano, valorando a cada persona desde sus capacidades y promoviendo el fortalecimiento de habilidades propias del talento humano en salud.
         .cajon.color-secundario.p-4.mb-4
           p.mb-0(data-aos="fade-left")  Centrarse en la persona implica fortalecer de manera cotidiana la misión humana del cuidado, el espíritu de servicio y los valores personales, así como reorganizar o construir modelos de atención que orienten sus esfuerzos hacia las necesidades reales de las personas y de su red de apoyo.
-        A continuación, se presentan diversas formas de abordar la gestión de la humanización, a partir de experiencias y estrategias desarrolladas por organizaciones nacionales e internacionales en el ámbito de la atención en salud:
+        p.mb-0 A continuación, se presentan diversas formas de abordar la gestión de la humanización, a partir de experiencias y estrategias desarrolladas por organizaciones nacionales e internacionales en el ámbito de la atención en salud:
       .col-lg-3.col-6.mb-4.mb-lg-0.order-1.order-lg-2
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema3/img33.png" alt="Icono 1")
@@ -334,7 +334,7 @@
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=pj-AvTOdk2Q')" target="_blank" type="video")
                 span Abrir video
                 i.fas.fa-file-download
-    p.mb-4 Asimismo, la OMS propone 5 objetivos estratégicos que son interdependientes para que la administración, aseguramiento, financiación, gestión, suministro, prestación, servicios y atención en salud se pueda centrar e integrar en las personas:[
+    p.mb-4 Asimismo, la OMS propone 5 objetivos estratégicos que son interdependientes para que la administración, aseguramiento, financiación, gestión, suministro, prestación, servicios y atención en salud se pueda centrar e integrar en las personas:
     
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10.desktop
@@ -343,24 +343,49 @@
             figure
               img(src='@/assets/curso/temas/tema3/img36.svg', alt='imagen decorativa')
           div(x="50%" y="20%" tooltip="Empoderar y comprometer a las personas" numero="+")
-            .h5.mb-2 Empoderar y comprometer a las personas
-            p.mb-0 Hace referencia a involucrar, capacitar y proporcionar las oportunidades y recursos necesarios para que las personas participen activamente como usuarias de los servicios de salud. Este enfoque también busca llegar a los grupos poblacionales en situación de vulnerabilidad, con el fin de garantizar el acceso universal a los servicios. Su objetivo es fortalecer la capacidad de las personas para tomar decisiones informadas sobre su propia salud y promover la participación de las comunidades en la coproducción de entornos saludables, la prestación de servicios en articulación con el sector salud y otros sectores, así como en la formulación de políticas públicas.
+            .row.justify-content-center.align-items-center.mt-5
+              .col-lg-3.d-none.d-lg-block
+                figure(data-aos="zoom-in")
+                  img.img-fluid(src="@/assets/curso/temas/tema3/img36_2.svg" alt="Icono 1")
+              .col-lg-7
+                .h5.mb-2 Empoderar y comprometer a las personas
+                p.mb-0 Hace referencia a involucrar, capacitar y proporcionar las oportunidades y recursos necesarios para que las personas participen activamente como usuarias de los servicios de salud. Este enfoque también busca llegar a los grupos poblacionales en situación de vulnerabilidad, con el fin de garantizar el acceso universal a los servicios. Su objetivo es fortalecer la capacidad de las personas para tomar decisiones informadas sobre su propia salud y promover la participación de las comunidades en la coproducción de entornos saludables, la prestación de servicios en articulación con el sector salud y otros sectores, así como en la formulación de políticas públicas.
           
           div(x="35.5%" y="37%" tooltip="Crear un entorno propicio" numero="+")
-            .h5.mb-2 Crear un entorno propicio
-            p.mb-0 Para que las estrategias anteriores se consoliden como una realidad operativa, es necesario crear un entorno que facilite la participación y articulación de los diferentes actores involucrados. Este proceso implica transformaciones en los marcos normativos, los mecanismos de financiación, los incentivos institucionales, la organización de la fuerza laboral y la formulación de políticas públicas que respalden un cambio sostenible en la atención en salud.
+            .row.justify-content-center.align-items-center.mt-5
+              .col-lg-3.d-none.d-lg-block
+                figure(data-aos="zoom-in")
+                  img.img-fluid(src="@/assets/curso/temas/tema3/img36_3.svg" alt="Icono 1")
+              .col-lg-7
+                .h5.mb-2 Crear un entorno propicio
+                p.mb-0 Para que las estrategias anteriores se consoliden como una realidad operativa, es necesario crear un entorno que facilite la participación y articulación de los diferentes actores involucrados. Este proceso implica transformaciones en los marcos normativos, los mecanismos de financiación, los incentivos institucionales, la organización de la fuerza laboral y la formulación de políticas públicas que respalden un cambio sostenible en la atención en salud.
 
           div(x="32%" y="73%" tooltip="Coordinación de servicios" numero="+")
-            .h5.mb-2 Coordinación de servicios
-            p.mb-0 Hace referencia a la organización y articulación de la atención en torno a las necesidades y preferencias de las personas en todos los niveles del sistema de salud. Asimismo, promueve la integración de los distintos prestadores y la creación de redes efectivas entre el sector salud y otros sectores, mediante la alineación y armonización de procesos que mejoren la continuidad y calidad de la atención.
+            .row.justify-content-center.align-items-center.mt-5
+              .col-lg-3.d-none.d-lg-block
+                figure(data-aos="zoom-in")
+                  img.img-fluid(src="@/assets/curso/temas/tema3/img36_4.svg" alt="Icono 1")
+              .col-lg-7
+                .h5.mb-2 Coordinación de servicios
+                p.mb-0 Hace referencia a la organización y articulación de la atención en torno a las necesidades y preferencias de las personas en todos los niveles del sistema de salud. Asimismo, promueve la integración de los distintos prestadores y la creación de redes efectivas entre el sector salud y otros sectores, mediante la alineación y armonización de procesos que mejoren la continuidad y calidad de la atención.
 
           div(x="64.5%" y="37%" tooltip="Fortalecimiento de la gobernanza y la rendición de cuentas" numero="+")
-            .h5.mb-2 Fortalecimiento de la gobernanza y la rendición de cuentas
-            p.mb-0 Este proceso implica mejorar el diálogo en torno a las políticas públicas, así como la formulación, implementación y evaluación de estas, en conjunto con ciudadanos, comunidades y otras partes interesadas. Busca promover la transparencia en la toma de decisiones y consolidar sistemas sólidos de rendición de cuentas para responsables políticos, directivos, prestadores de servicios y usuarios del sistema de salud.
+            .row.justify-content-center.align-items-center.mt-5
+              .col-lg-3.d-none.d-lg-block
+                figure(data-aos="zoom-in")
+                  img.img-fluid(src="@/assets/curso/temas/tema3/img36_5.svg" alt="Icono 1")
+              .col-lg-7
+                .h5.mb-2 Fortalecimiento de la gobernanza y la rendición de cuentas
+                p.mb-0 Este proceso implica mejorar el diálogo en torno a las políticas públicas, así como la formulación, implementación y evaluación de estas, en conjunto con ciudadanos, comunidades y otras partes interesadas. Busca promover la transparencia en la toma de decisiones y consolidar sistemas sólidos de rendición de cuentas para responsables políticos, directivos, prestadores de servicios y usuarios del sistema de salud.
 
           div(x="68%" y="73%" tooltip="Reorientar el modelo de atención" numero="+")
-            .h5.mb-2 Reorientar el modelo de atención
-            p.mb-0 Se refiere al aseguramiento de la compra y la prestación de servicios de salud eficientes y efectivos, mediante modelos de atención que prioricen la atención primaria, comunitaria y la coproducción de la salud. Este proceso incluye el tránsito de un enfoque centrado en la atención hospitalaria hacia modelos ambulatorios e integrales, más cercanos a las necesidades de las personas y las comunidades.
+            .row.justify-content-center.align-items-center.mt-5
+              .col-lg-3.d-none.d-lg-block
+                figure(data-aos="zoom-in")
+                  img.img-fluid(src="@/assets/curso/temas/tema3/img36_6.svg" alt="Icono 1")
+              .col-lg-7
+                .h5.mb-2 Reorientar el modelo de atención
+                p.mb-0 Se refiere al aseguramiento de la compra y la prestación de servicios de salud eficientes y efectivos, mediante modelos de atención que prioricen la atención primaria, comunitaria y la coproducción de la salud. Este proceso incluye el tránsito de un enfoque centrado en la atención hospitalaria hacia modelos ambulatorios e integrales, más cercanos a las necesidades de las personas y las comunidades.
       .col-lg-10.movil
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema3/img37.svg" alt="Icono 1")
@@ -390,7 +415,7 @@
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Modelo Organización Planetree
     P Según la Organización Planetree International, plantea que la atención centrada en la persona es más que hospitalidad, ambiente saludable y #[i confort], el cual crea impresiones positivas y experiencias satisfactorias en favor de la calidad de vida.
-    P.mb-4 El modelo contribuye a la implementación sistemática de la humanización en la atención centrada en la persona y su familia, la cual se aborda de la siguiente manera:[
+    P.mb-4 El modelo contribuye a la implementación sistemática de la humanización en la atención centrada en la persona y su familia, la cual se aborda de la siguiente manera:
     
     .tarjeta--BMG4.p-5.mb-4 
       .tarjeta.tarjeta--gris.p-4
@@ -436,7 +461,7 @@
                 img.img-fluid(src="@/assets/curso/temas/tema3/img45.jpg" alt="Imagen decorativa")
             .col-lg-6.mb-4.mb-md-0
               h5 Entrenamiento gerencial
-              p.mb-0 Se orienta a identificar las necesidades de coaching de gerentes y directivos, así como a desarrollar nuevas estrategias de motivación, involucramiento y capacitación del personal, definiendo roles claros dentro de una nueva estructura operativa.
+              p.mb-0 Se orienta a identificar las necesidades de #[i coaching] de gerentes y directivos, así como a desarrollar nuevas estrategias de motivación, involucramiento y capacitación del personal, definiendo roles claros dentro de una nueva estructura operativa.
           .row(titulo="")
             .col-lg-6.col-10.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
@@ -452,10 +477,10 @@
         p.mb-0 Con lo anterior, la atención centrada en la persona, crea ambientes saludables en el trabajo, mejora los resultados de salud y compromete a las comunidades en torno a la salud y el bienestar: asimismo, tiene efecto en el desempeño directo de las organizaciones de salud y mejora la experiencia de la persona, es decir cada integrante se siente valorado y con ello la institución se consolida.
     
     .row.justify-content-center.align-items-center.mb-4
-        .col-lg-3.col-6.mb-4.mb-lg-0
+        .col-lg-4.col-6.mb-4.mb-lg-0
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img48.jpg" alt="Icono 1")
-        .col-lg-7.mb-4.mb-lg-0
+        .col-lg-8.mb-4.mb-lg-0
           p.mb-4  Las siguientes son las contribuciones del modelo:
           ul.lista-ul
             li
