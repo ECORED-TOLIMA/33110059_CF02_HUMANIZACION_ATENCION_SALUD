@@ -206,7 +206,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Características
-    p.mb-4(data-aos="fade-left") Este modelo comienza a fundamentarse con las teorías de terapias familiares y luego son orientadas a entender los aspectos biopsicosociales que presenta el individuo cuando la atención médica está centrada en la familia, creando la terapia médica familiar. Por ello, se caracteriza principalmente por
+    p.mb-4(data-aos="fade-left") Este modelo comienza a fundamentarse con las teorías de terapias familiares y luego son orientadas a entender los aspectos biopsicosociales que presenta el individuo cuando la atención médica está centrada en la familia, creando la terapia médica familiar. Por ello, se caracteriza principalmente por:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
