@@ -274,19 +274,7 @@
           .d-flex.justify-content-end.align-items-center(style="margin-top:-35px")
               i.fas.fa-quote-right
 
-    .tarjeta.color-acento-botones.p-3.mb-5(data-aos="fade-right")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1(data-aos="fade-left")
-          img(src="@/assets/curso/temas/tema3/img31.svg")
-        .col(data-aos="fade-left")
-          .row.justify-content-between.align-items-center
-            .col.mb-sm-0.mb-4
-              h3.mb-1 Modelo centrado en la persona
-              p Este video define un modelo centrado en la persona; aunque está en otro idioma, se invita a conocerlo y ahondar en el tema.
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=6Dk3CV-Wt38')" target="_blank" type="video")
-                span Abrir video
-                i.fas.fa-file-download
+
     .row.justify-content-center.align-items-center.mb-4
       
       .col-lg-9.mb-4.mb-lg-0
@@ -321,19 +309,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img34.svg', alt='Figura 1 que relaciona el modelo de la OMS el cual se basa en la atención centrada en la persona, destacando la situación del país y sus niveles de desarrollo en cuento al sector de salud, la prestación de servicios y los otros sectores en lo que está presente la persona, su familia, la comunidad y los servicios sociales recibidos.')
 
-    .tarjeta.color-acento-botones.p-3.mb-4(data-aos="fade-right")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema3/img35.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-sm-0.mb-4
-              h3.mb-1 Modelo OMS
-              p Este video presenta una explicación detallada del modelo de atención centrado en la persona propuesto por la OMS. Aunque se encuentra en otro idioma, su contenido resulta claro y valioso para el análisis del enfoque.
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=pj-AvTOdk2Q')" target="_blank" type="video")
-                span Abrir video
-                i.fas.fa-file-download
+    
     p.mb-4 Asimismo, la OMS propone 5 objetivos estratégicos que son interdependientes para que la administración, aseguramiento, financiación, gestión, suministro, prestación, servicios y atención en salud se pueda centrar e integrar en las personas:
     
     .row.justify-content-center.align-items-center.mb-3
