@@ -348,7 +348,6 @@
         p.mb-0 En síntesis, la empatía trasciende la comprensión emocional para convertirse en una práctica consciente que orienta la forma de relacionarse con los demás. Reconocer sentimientos, necesidades y contextos permite fortalecer la comunicación, generar confianza y favorecer interacciones respetuosas y humanizadas. En los escenarios de salud, la empatía se consolida como una habilidad esencial que contribuye a una atención centrada en la persona, promoviendo vínculos más éticos, sensibles y comprometidos con la dignidad humana.
 
 </template>
-
 <script>
 export default {
   name: 'Tema1',
@@ -365,5 +364,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>
