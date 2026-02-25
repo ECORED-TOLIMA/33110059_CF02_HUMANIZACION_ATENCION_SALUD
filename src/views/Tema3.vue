@@ -253,10 +253,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-sm-0.mb-4
-              h3.mb-1 El modelo biosicosocial en evolución
+              h3.mb-1 El modelo biopsicosocial en evolución
               p Para profundizar en la reflexión de las relaciones de los anteriores modelos, acceda al siguiente documento que detalla con mayor profundidad esta temática.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_El_modelo_biosicosocial.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_El_modelo_biopsicosocial.pdf')" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
     separador
@@ -488,7 +488,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-sm-0.mb-4
               h3.mb-1 Modelo Planetree
-              p Este video presenta contiene la ponencia de la directora de Planetree internacional, quien expone de manera clara su modelo.
+              p Este video presenta la ponencia de la directora de Planetree internacional, quien expone de manera clara su modelo.
             .col-sm-auto
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=9DImhwsbHw4')" target="_blank" type="video")
                 span Abrir video
