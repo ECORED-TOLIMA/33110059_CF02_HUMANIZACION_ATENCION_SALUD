@@ -73,7 +73,6 @@
               figure.mb-4(data-aos="zoom-in")
                 img.img-fluid(src="@/assets/curso/temas/tema3/img8.svg" alt="Imagen decorativa")
     
-    p.mb-4(data-aos="fade-left") Desde el enfoque de la humanización, se reconoce la importancia de las relaciones interpersonales, las cuales se establecen entre personas o grupos de personas. Estas relaciones permiten el intercambio de información, la comunicación efectiva, la expresión de emociones, la toma de decisiones compartidas y la puesta en práctica de acciones orientadas a ayudar y servir a otros, lo cual constituye el quehacer cotidiano de la atención humanizada en salud.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .cajon.color-primario.p-4.mb-4

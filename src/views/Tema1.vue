@@ -192,7 +192,7 @@
         .col-lg-4.col-12.mb-4.mb-lg-4.order-1.order-lg-2
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema1/img17.jpg" alt="Icono 1")
-    p.mb-4 La siguiente imagen, explica todo el proceso que tiene que ver con la motivación y las diversas acciones en donde está presente:
+    p.mb-4 A continuación, se explica todo el proceso que tiene que ver con la motivación y las diversas acciones en donde está presente:
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones.mb-5
