@@ -518,7 +518,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Estrategia aplicada ESE- La Mesa
-    p.mb-4 Se presenta una de las estrategias utilizadas para abordar el programa de humanización en una en una Empresa Social del Estado ubicada en La Mesa (Cundinamarca). El apoyo emocional como eje de abordaje.
+    p.mb-4 Se presenta una de las estrategias utilizadas para abordar el programa de humanización en una Empresa Social del Estado ubicada en La Mesa (Cundinamarca). El apoyo emocional como eje de abordaje.
 
      .row.justify-content-center.align-items-center.mb-5
       .col-lg-12

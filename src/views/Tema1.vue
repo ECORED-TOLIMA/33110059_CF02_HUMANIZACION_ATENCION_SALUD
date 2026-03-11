@@ -66,13 +66,13 @@
               p.mb-0 Conciencia de lo medular que resulta para una organización cuidar al máximo las reuniones de trabajo.
             li
               i.fas.fa-briefcase-medical
-              p.mb-0 Capacidad institucional para enfrentar las dificultades y convertirlos en oportunidades.
+              p.mb-0 Capacidad institucional para enfrentar las dificultades y convertirlas en oportunidades.
             li
               i.fas.fa-briefcase-medical
               p.mb-0 Valor por la experiencia y la creatividad del personal de salud.
             li
               i.fas.fa-briefcase-medical
-              p.mb-0 Fortalecimiento en la organización en aumentar su capacidad de comunicación y el liderazgo en su personal.
+              p.mb-0 Fortalecimiento en la organización para aumentar su capacidad de comunicación y el liderazgo en su personal.
             li
               i.fas.fa-briefcase-medical
               p.mb-0 Promocionar altos grados de autonomía y responsabilidad en el personal de salud.
@@ -93,7 +93,7 @@
               p.mb-0 Fomentar la conciencia de la importancia de la formación y la capacitación continua, del conocimiento compartido, del apoyo de carácter reflexivo, de incentivar el profesionalismo y responsabilidad.
             li
               i.fas.fa-briefcase-medical
-              p.mb-0 Asignación de presupuesto en generar lineamientos y políticas en favor del recurso humano y de formación.
+              p.mb-0 Asignación de presupuesto para generar lineamientos y políticas en favor del recurso humano y de formación.
     p.mb-4 Se reconoce el beneficio en que se favorece, no solo para la organización, sino para el equipo, ya que genera un ambiente de confianza, respeto y colaboración apropiado en cada ámbito, bien sea laboral o personal. Un equipo funciona sobre la base objetiva de oferta y demanda de servicios y de una base subjetiva como es: la interdependencia y confianza entre sus miembros del equipo de trabajo.
     .tarjeta.color-acento-botones.p-3.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
@@ -175,7 +175,7 @@
       .col-lg-11
         p.mb-0(data-aos="fade-left") Un factor importante en crear un ambiente favorable de trabajo en equipo y el logro de los objetivos en la atención en salud humanizada, es la motivación, la cual juega un papel importante, entendiéndola como una fuerza direccionada al logro de un propósito, que, al ser alcanzado, habrá de generar satisfacción. La motivación tiene que ver con el optimismo, el cual es una capacidad de seguir adelante y de continuar persiguiendo los objetivos a pesar de las adversidades.
 
-    p.mb-4(data-aos="fade-left") La motivación puede ser generada por los procesos mentales individuales (automotivación) o provenir del entorno (estímulo externo). Ambos procesos se destacan por:[
+    p.mb-4(data-aos="fade-left") La motivación puede ser generada por los procesos mentales individuales (automotivación) o provenir del entorno (estímulo externo). Ambos procesos se destacan por:
     
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul mb-4")
       .row(titulo="Automotivación ")
